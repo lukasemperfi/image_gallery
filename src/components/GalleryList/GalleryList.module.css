@@ -1,0 +1,11 @@
+.myMasonryGrid {
+	display: flex;
+	margin-left: -30px; 
+	width: auto;
+	min-height: 100vh;
+  }
+  .myMasonryGridColumn {
+	padding-left: 30px; 
+	background-clip: padding-box;
+  }
+  
